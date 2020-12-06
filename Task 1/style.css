@@ -1,0 +1,42 @@
+body {
+  margin: auto;
+  background: url(img/f8103819da656ccffb9dd9906832a251.jpg) no-repeat;
+  background-size: 100%;
+  font-size: 24px;
+  color: white;
+}
+h1{
+text-align: center;
+}
+.logo{
+  width: 75px;
+  height: 75px;
+  float:left;
+  padding-left: 50px;
+}
+h2{
+  text-align: center;
+  margin-top: 50px;
+}
+p{
+  margin: 65px;
+  text-indent: 25px;
+}
+span{
+  color: aquamarine;
+}
+
+div{
+  text-align: center;
+}
+footer{
+  text-align: center;
+  margin-top: 15px;
+}
+a{
+  color: wheat;
+  text-decoration: none;
+}
+a:focus{
+  opacity: 75%;
+}
